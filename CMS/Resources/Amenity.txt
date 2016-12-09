@@ -1,0 +1,233 @@
+﻿
+	1. General
+	
+	The following terms and conditions, together with such terms as are set forth in the Purchase Order Form ("Form"),
+	with such plans, specifications or other documents as are incorporated by reference , as amended in any subsequent
+	authorized writing from Buyer, shall constitute the entire contract (the "Purchase Order") between The Trustees of
+	the University of Pennsylvania ("Buyer") and Supplier. If bid documents, performance specifications, technical 
+	product descriptions or other similar descriptive materials submitted by Supplier in connection with the Purchase Order,
+	or Supplier's proposal, have been incorporated by reference, these shall not be deemed to supersede any contrary
+	requirements of Buyer, but to the extent that such materials are not inconsistent with Buyer's requirements, 
+	they shall constitute a part of the basis of this agreement. If this Purchase Order is construed as an offer,
+	this offer expressly limits acceptance to the terms of this offer and notice of objection to any different or
+	additional terms in any response to this offer is hereby given. If this Purchase Order is construed as an 
+	acceptance of an offer, this acceptance is expressly conditioned upon the offeror's assent to any different or 
+	additional terms contained or referenced in this Purchase Order. If this Purchase Order is construed as a
+	confirmation of an existing contract, the parties agree that this confirmation states the exclusive terms of 
+	any contract between the parties. This Purchase Order shall be deemed to have been accepted by the Supplier upon
+	receipt by the Buyer of any writing, including a writing transmitted by fax or other means of electronic transmission,
+	indicating acceptance, or by any of the following: (i) shipment of the goods or any portion thereof, (ii) commencement 
+	of any work on site or (iii) performance of any services here under.
+
+	2. Electronic/Facsimile Transmission
+	
+	If this Purchase Order is transmitted by fax or by other means of electronic transmission, such transmission shall 
+	have the legal significance of a duly executed original delivered to the Supplier, but only if the Transmit Terminal
+	Identification on the Form includes the notation "Penn Purchasing Services."
+
+	3. Payment
+	
+	Discount terms are as set forth in the Form. If no terms are specified, the net amount shall be payable within 30 days
+	after the later of (i) delivery and acceptance of goods or other performance conforming with the terms of this Purchase
+	Order and (ii) invoicing. Except as otherwise provided in the Purchase Order, the price includes all applicable Federal, 
+	State and local taxes and duties. Supplier assigns to Buyer all rights to refunds of sales and use taxes paid in connection
+	with this Purchase Order and agrees to co-operate with Buyer in the processing of any refund claims. Unless expressly 
+	otherwise provided in the Form, Buyer shall not be liable for any shipping, handling, fuel surcharges or similar fees.
+
+	4. Time
+	
+	If delivery or completion dates can not be met, Supplier shall inform Buyer immediately. Such notice shall not,
+	however, constitute a change to the delivery or completion terms of this Purchase Order unless Buyer modifies 
+	this Purchase Order in writing. If any item is not received or if any element of the work is not completed by 
+	the date specified, the Buyer, at Buyer's option and without prior notice to Supplier, may either approve a 
+	revised date or may cancel this Purchase Order and may obtain such goods or work elsewhere and in either event 
+	the Supplier shall be liable to the Buyer for any resulting loss incurred by the Buyer. Supplier's sole remedy 
+	for a delay caused by Buyer shall be an extension in the time for Supplier's performance equal to the duration 
+	of Buyer's delay. Supplier shall not be liable for damages resulting from Supplier's failure to deliver or 
+	complete, or for delays in delivery or completion, caused solely by strikes not caused by or within the control
+	of Supplier, lock-outs not caused by or within the control of Supplier, fires, war or acts of God. TIMING OF 
+	DELIVERY AND/OR PERFORMANCE OF THE WORK IS OF THE ESSENCE OF THIS PURCHASE ORDER.
+
+	5. Improper Performance and Disputes
+	
+	In addition to other remedies provided by law, Buyer reserves the right to reject any goods or to revoke any previous 
+	acceptance and to cancel all or any part of the Purchase Order if Supplier fails to deliver all or any part of the goods 
+	or perform any of the work in accordance with the terms and conditions of this Purchase Order. Acceptance of any part of
+	the Purchase Order shall not bind the Buyer to accept any future shipments or work, nor deprive it of the right to
+	return goods already accepted. At Buyer's option, if Buyer so elects in its sole discretion with regard to any particular
+	dispute, any dispute arising in connection with this Purchase Order shall be resolved by arbitration in Philadelphia,
+	PA in accordance with the rules of the American Arbitration Association; and all disputes shall otherwise be resolved
+	in and only in the Court of Common Pleas of Philadelphia County, PA as the exclusive judicial forum. BUYER AND SELLER 
+	WAIVE THEIR RIGHT TO A JURY TRIAL WITH REGARD TO ANY DISPUTE ARISING IN CONNECTION WITH THIS PURCHASE ORDER.
+
+	6. Warranty
+	
+	Supplier expressly warrants all (i) goods delivered under this Purchase Order to be free from defects in material and
+	workmanship and to be of the quality, size and dimensions ordered and (ii) work performed under this Purchase Order
+	to be in conformity with all plans, specifications and other data incorporated as part of this Purchase Order. 
+	Notwithstanding any limitation of warranty, Supplier further represents and warrants that the supply, quality and
+	fitness for the purpose of the goods or services will not be impaired, disrupted or interrupted in whole or in part 
+	by the occurrence of any leap year. These express warranties shall not be waived by reason of acceptance or payment
+	by the Buyer. This Purchase Order incorporates by reference all terms of the Uniform Commercial Code as adopted in
+	the Commonwealth of Pennsylvania (the "UCC") providing any protection to Buyer for goods, including but not limited 
+	to all warranty protection (express or implied) and all of Buyer's remedies under the UCC. All goods and work shall 
+	also be subject to any stricter warranties specified in the Purchase Order or in other materials incorporated by reference.
+
+	7. Risk of Loss
+	
+	Unless the Purchase Order expressly states otherwise, all goods shall be shipped FOB: the "Ship to" location 
+	designated in the Form. Risk of loss shall not pass to Buyer until goods called for in this Purchase Order 
+	actually have been received and accepted by the Buyer at the destination specified herein. Supplier assumes 
+	full responsibility for packing, crating, marking, transportation and liability for loss and/or damage even
+	if Buyer has agreed to pay freight, express or other transportation charges.
+
+	8. Indemnity and Hold Harmless
+	
+	From and after the date of this Purchase Order, the Supplier agrees to indemnify, defend and hold harmless the Buyer
+	from any and all claims and liabilities, regardless of by whom such claim or liability may be asserted, for personal 
+	injury (including death), or loss or damage to property, or otherwise that may result directly or indirectly from the 
+	use, possession or ownership of the goods or from the services provided by Supplier pursuant to this Purchase Order.
+	
+	With regard to Supplier's obligation to defend, the Buyer shall have the right to select the legal counsel whom Supplier 
+	shall provide to defend any Indemnified Party, subject to Supplier's approval of the qualifications of such legal counsel
+	and the reasonableness of counsel's hourly rates as compared to the rates of attorneys with similar experience and 
+	qualifications in the relevant area of legal expertise and in the jurisdiction where the claim will be adjudicated.
+	If the Buyer elects, in its sole discretion, to retain separate legal counsel, in addition to or in lieu of the counsel 
+	to be provided by Supplier, then all costs and expenses incurred by the Buyer for such separate counsel shall be borne
+	by the Buyer and the Supplier shall reasonably cooperate with the Buyer and its separate legal counsel in the 
+	investigation and defense of any such claim or action. Supplier shall not settle or compromise any claim or action 
+	giving rise to Claims in a manner that imposes any restrictions or obligations on Buyer without Buyer's prior written 
+	consent. If the Buyer elects to require that Supplier defend a Claim pursuant to this paragraph, and Supplier fails or
+	declines to assume the defense of such Claim within thirty (30) days after notice thereof, the Buyer may assume the 
+	defense of such Claim for the account and at the risk of Supplier, and any Liabilities related thereto shall be 
+	conclusively deemed a liability of Supplier. The indemnification rights of the Indemnified Parties contained herein 
+	are in addition to all other rights which such Indemnified Party may have at law or in equity or otherwise.
+
+	9. Assignment/Subcontracting
+	
+	Neither party shall have any right to assign this Purchase Order or any benefits arising from this Purchase Order
+	without prior written consent of the other and, unless otherwise agreed upon in writing, the rights of any assignee
+	shall be subject to all set-offs, counterclaims, and other comparable rights arising hereunder. Supplier shall not, 
+	except in the case of raw materials, castings, forgings or rough welded structures, or standard commercial goods, or
+	except as otherwise agreed in writing by the Buyer, delegate or subcontract the work on any item of material or
+	service to be delivered or performed under this Purchase Order.
+
+	10. Insurance
+	
+	In connection with the Purchase Order, Supplier, at its own cost and expense, shall obtain and maintain in force
+	during the term of this Purchase Order, the following insurance coverage:
+	
+	A policy of workers' compensation insurance, in amounts required by law, covering all officers and employees of Supplier
+	who are in any way engaged in or connected with the Purchase Order, and employer's liability insurance in an amount of 
+	not less than Five Hundred Thousand Dollars ($500,000). Supplier shall require its agents, sub-suppliers and sub contractors,
+	who are in any way engaged in or connected with the Purchase Order to maintain the same insurance as required herein of Supplier.
+	A policy of commercial general liability insurance with broad form property damage endorsement, personal injury and products
+	completed operations coverage, affording protection in an amount of not less than Two Million Dollars ($2,000,000) per 
+	incident and in the aggregate, with respect to personal injury, death, or damage to property.
+	If this Purchase Order contemplates professional services, a policy of professional liability insurance, including errors
+	and omissions, affording protection of not less than One Million Dollars ($1,000,000) per incident and One Million 
+	Dollars ($1,000,000) in the aggregate.
+	A policy of comprehensive automobile liability insurance covering the operation of all motor vehicles used by Supplier or
+	its agents in connection with this Purchase Order, affording protection in an amount of not less than One Million 
+	Dollars ($1,000,000) combined single limit with respect to personal injury, death, or damage to property.
+	All of these insurance policies shall be issued by insurance companies with an AM Best rating of "A" or higher and a 
+	financial strength rating of VII or higher, or equivalent ratings provided by a disinterested, generally recognized 
+	rating agency, which companies shall be licensed or permitted to conduct business in the Commonwealth of Pennsylvania. 
+	The commercial general liability policy shall name The Trustees of the University of Pennsylvania as an additional 
+	insured, and shall be written as primary coverage and not contributing with or in excess of any coverage that the Buyer
+	may carry. Upon request, Supplier shall furnish to Buyer a current certificate of insurance for each of the policies
+	required above. Insurance coverage(s) provided under this Purchase Order shall not limit or restrict in any way the
+	liability of Supplier arising under or in connection with this Purchase Order. Such insurance shall not be canceled 
+	or terminated without ten (10) days prior written notice of any cancellation or termination.
+
+	11. Examination of Records
+	
+	The Supplier agrees that Buyer, and any Federal agency providing funding for this Purchase Order and the Comptroller 
+	General of the United States or any of their duly authorized representatives, shall have access to and the right to 
+	examine any pertinent books, documents, papers and records of the Supplier involving transactions related to this 
+	Purchase Order to the extent necessary to verify the nature and extent of costs incurred under this Purchase Order 
+	until the expiration of four (4) years after final payment under this Purchase Order. Nothing in this Purchase Order 
+	shall be deemed to preclude an audit by the U.S. General Accounting Office of any transaction under this Purchase Order. 
+	The preceding two sentences shall not apply if this Purchase Order does not involve a sum in excess of One 
+	Thousand Dollars ($1,000), or if this is an agreement for public utility services at rates established for uniform 
+	applicability to the general public, or if this is as agreement for general inventory goods not specifically identifiable
+	with work under the Buyer's contract with the government.
+
+	12. Re-negotiation
+	
+	If this Purchase Order is subject to the Renegotiation Act of 1951, as amended, then it shall be deemed to contain all
+	the provisions required by Section 104 of said Act as amended. Nothing contained in this clause shall impose a
+	renegotiation obligation with respect to this Purchase Order or any subcontract hereunder which is not imposed by an act 
+	of Congress heretofore or hereafter enacted. Supplier agrees to include the provisions of this clause in all subcontracts
+	as required by Section 103(g) of the Renegotiation Act.
+
+	13. Non-Discrimination in Employment
+	
+	In connection with the performance of work under this Purchase Order, the Supplier agrees as follows:
+	Buyer is a federal contractor, subject to Executive Order 11246 (as amended), the Vietnam Era Veterans’ Readjustment 
+	Assistance Act (as amended) and Section 503 of the Rehabilitation Act of 1973 (as amended), along with related regulations.
+	This Purchase Order is subject to the requirements of 41 CFR 60-1.4 and 29 CFR part 471, Appendix A to Subpart A, which are
+	incorporated into this Purchase Order by reference, as applicable. These regulations prohibit discrimination on the basis
+	of race, color, religion, sex or national origin and require affirmative action to employ and advance in employment 
+	individuals without regard to race, color, religion, sex or national origin. In addition, this Purchase Order is subject 
+	to the requirements of 41 CFR 60-300.5(a) and 41 CFR 60-741.5(a), which are incorporated herein by reference, as applicable. 
+	This Buyer and Supplier shall abide by the requirements of 41 CFR 60-300.5(a) and 41 CFR 60-741.5(a), as applicable. 
+	These regulations prohibit discrimination against qualified individuals on the basis of disability and protected veteran status, 
+	and require affirmative action to employ and advance in employment qualified individuals with disabilities and qualified 
+	protected veterans.
+	The Supplier will furnish all information and reports required by Executive Order No. 11246 as amended, and by the rules,
+	regulations, and orders of the U.S. Secretary of Labor, or pursuant thereto, and will permit access to Supplier's books,
+	records, and accounts by the contracting agency and the U.S. Secretary of Labor for purposes of investigation to ascertain 
+	compliance with such rules, regulations, and orders.
+	In the event of the Supplier's non-compliance with the non-discrimination clauses of this Purchase Order or with any of the
+	said rules, regulations, or orders, this Purchase Order may be cancelled, terminated or suspended in whole or in part and
+	the Supplier may be declared ineligible for further Government contracts as provided by law.
+	 
+	14. Compliance with Laws and Regulations
+	
+	The Supplier agrees to comply with all applicable federal, state, and local laws and regulations. If this Purchase Order is
+	issued pursuant to a contract between the Buyer and the federal government, the provisions of OMB Circular A-110 
+	(1993)-Appendix A shall apply in accordance with their terms. OMB Circular A-110 mandates compliance with the Copeland
+	"Anti-Kickback" Act, the Davis-Bacon Act, and the Contract Work Hours and Safety Standards Act, Sections 102 and 107.
+	If the amount of this Purchase Order exceeds One Hundred Thousand Dollars ($100,000) and any portion of the Purchase Order
+	is funded by the federal government, Supplier shall file the certifications required by the Byrd Anti-Lobbying Amendment,
+	and shall comply will all applicable standards, orders and regulations issued pursuant to the Federal Water Pollution 
+	Control Act and the Clean Air Act. Supplier shall provide certification regarding its and its principal employees' 
+	exclusion status upon request. COPIES OF OMB CIRCULAR A-110 (1993) APPENDIX-A AND INFORMATION REGARDING 
+	THE SOURCE OF FUNDS FOR THIS PURCHASE ORDER WILL BE PROVIDED TO SUPPLIER UPON REQUEST.
+
+	15. Termination Without Cause
+	
+	Buyer, in its sole discretion and without cause, may terminate this Purchase Order, in whole or in part, at any time
+	without incurring liability to Supplier for lost profits, or any other costs or damages, other than the proportionate
+	value of the purchase price for work completed on site or goods delivered. Payment due shall be a percentage of the 
+	purchase price equal to the percentage of the work completed and/or any unit prices in the purchase price specified for 
+	goods delivered. Supplier's warranties, and Supplier's liability for defective or non-conforming work or goods, as well as
+	sections 5, 6, 8, 10, 11 and 17 of these Terms and Conditions, shall survive termination and remain in full force and 
+	effect.
+
+	16. Additional Provisions for Work Performed on Site
+	
+	The provisions set forth in Paragraphs 16(a) through 16(d) below shall apply to work performed at locations owned, 
+	leased or otherwise controlled by Owner ("Owner's Site") unless Exhibit "B" applies. For construction work, Exhibit "B"
+	of these terms and conditions sets forth alternate provisions and requirements that shall apply in lieu of Paragraph 16(a)
+	through 16(d).
+	
+	The Supplier shall maintain on the Site at all times a sufficient work force to carry out its obligations in an efficient
+	and timely manner. The Supplier shall employ only competent, skilled, reliable and honest workmen who will work in harmony
+	with other workmen on the Site. All persons furnished by Supplier shall be deemed Supplier's employees or agents, and 
+	Supplier shall comply with all applicable statutes regarding worker's compensation, employer's liability, unemployment 
+	compensation, and/or old age benefits and all other applicable laws relating to or affecting the employment of labor.
+	At the Owner's instruction, the Supplier shall promptly remove from the Site any employee who, in the Owner's opinion,
+	represents a threat to the safety or progress of the Project or persons on the Site, or who has engaged in any improper 
+	conduct, specifically including (without limitation) conduct which the Owner perceives as constituting harassment of 
+	students or other persons.
+	Supplier shall secure all materials and the site where Work is performed, and shall leave all areas broom clean 
+	(unless a more stringent cleanliness standard is set forth in documents that are incorporated in this Purchase Order 
+	by reference) and in a safe condition at the end of each work day and upon completion of the Work. In case of dispute, 
+	Owner may remove waste at Supplier's expense.
+	Supplier shall ensure that federal, state and county of residence criminal background checks are conducted on all persons 
+	performing Work at the Site, and shall exclude from the Site any dishonest, dangerous or otherwise unqualified persons.
+	In the event of an emergency threatening health, life or property, the Supplier shall take such action as may be necessary
+	to save lives and protect persons from injury and, this being done, to protect and preserve property. The Supplier shall
+	notify the Owner of any such emergency as promptly as is practicable under the circumstances.
